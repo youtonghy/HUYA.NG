@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "YANG HU"
   pronouns         : # example: "he/him"  
-  bio              : ""
+  bio              : 
   location         : "Melbourne"
-  employer         : "Red Brick University"
+  employer         : 
   uri              : "https://huya.ng"
   email            : "i@huya.ng" 
 
